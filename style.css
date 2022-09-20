@@ -1,0 +1,9 @@
+input { 
+    width: 99%;
+    /* margin-right: 14px; } */
+}
+
+input, textarea {
+    width: 99%;
+    height: 55%; 
+}
